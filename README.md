@@ -5,7 +5,7 @@
 
 ### Install Pritunl VPN
 ```
-git clone https://github.com/dylansys/pritunl.git && cd ./pritunl && chmod +x ./openvpn-intsall.sh && ./openvpn-intsall.sh -y
+git clone https://github.com/dylansysad/pritunl.git && cd ./pritunl && chmod +x ./openvpn-intsall.sh && ./openvpn-intsall.sh -y
 ```
 
 ### Login WEB UI
